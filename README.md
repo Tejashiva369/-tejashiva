@@ -1,2 +1,2 @@
-# -tejashiva
+# tejashiva
 creating repository
